@@ -1,0 +1,4 @@
+repository "Magnetism_@suryashmalviya@cloud"
+  path "/"
+    br "/main"
+    co "/main"
